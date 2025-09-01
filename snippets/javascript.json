@@ -1,0 +1,16 @@
+{
+  "Debug log (cf)": {
+    "prefix": "cf",
+    "body": [
+      "debug.log($1);$0"
+    ],
+    "description": "Insert debug.log(...)"
+  },
+  "Console log with line number (cd)": {
+    "prefix": "cd",
+    "body": [
+      "console.log('🚀DeBug--- line ${TM_LINE_NUMBER}:', $1);$0"
+    ],
+    "description": "Insert console.log with current line number"
+  }
+}
