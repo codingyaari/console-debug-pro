@@ -95,8 +95,7 @@ cf          Inserts debug.logn() that opens file in VS Code
 
 ## 🔗 Links
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingyaari)
-[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]
-(https://x.com/codingyaari)
+[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codingyaari)
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61579800007414)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingyaari)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31368342/codingyaari)
