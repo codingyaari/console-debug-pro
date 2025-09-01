@@ -1,7 +1,8 @@
-![Demo](./assets/github.png) 
+
+
 
  <p align="center">
-
+ <img src="/assets/github.png" width="500px">
 <h1 align="center">Console Debug Pro  🚀 </h1>
 
 
